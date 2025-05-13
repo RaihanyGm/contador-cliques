@@ -21,14 +21,16 @@ src/Main.java
 
 ## Como executar
 
-Clone o repositório:
+1. Clone o repositório:
 
 ```
 git clone https://github.com/RaihanyGm/contador-cliques.git
 ```
 
-Abra o projeto em uma IDE Java (como IntelliJ, Eclipse ou VSCode com extensão para Java).
-Navegue até `src/Main.java` e execute o arquivo.
+2. Abra o projeto em uma IDE Java.
+3. Navegue até `src/Main.java` e execute o arquivo.
+
+> Obs: O contador não pode ser zerado. A contagem só aumenta conforme os cliques.
 
 ## Autora
 
